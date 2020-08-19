@@ -13,11 +13,17 @@ Base SFDX Repo: https://github.com/mtetlow/lmsdemo
 (hint run sh createscratchorg.sh to create a development environment)
 
 Helpful docs:
+
 Concepts:
+
 https://developer.salesforce.com/blogs/2019/10/lightning-message-service-developer-preview.html
 https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/message_channel_create.htm
+
 Visualforce:
+
 https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/message_channel_subscribe.htm
+
 LWC:
+
 https://www.sfdcpoint.com/salesforce/lightning-record-edit-form-lwc/
 
